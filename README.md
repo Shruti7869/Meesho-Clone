@@ -56,3 +56,4 @@ It is not affiliated with or endorsed by Meesho.
 Shruti Balecha
 📧 Contact: [shrutibalecha1313@gmail.com]
 🌐 GitHub: Shruti7869
+ https://shruti7869.github.io/Meesho-Clone/
